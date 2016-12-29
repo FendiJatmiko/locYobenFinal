@@ -1,0 +1,6 @@
+node_modules/
+.jshintrc
+.npmignore
+.project
+.settings/
+.c9/
